@@ -37,6 +37,15 @@ __<u> Characteristics:</u>__
 **Link:**
 
 
+| Qualities              |
+|------------------------|
+| Honesty                |
+|Clarity                 |
+|Accuracy                |
+|Accessibility           |
+|Professional appearance |
+
+
 
 _____
 
