@@ -34,6 +34,10 @@ __<u> Characteristics:</u>__
 * Gives instructions and descriptions of ~~of~~ object and processes
 * Helps to communicate with non-native speakers
 
+**Link:**
+
+
+
 _____
 
 
