@@ -2,7 +2,7 @@
 
 ____
 
-<p>There are two meanings for Technical communication.</p>
+<p>There are two meanings for Technical Communication.</p>
 
 1. Making and sharing of technical information in workspace.
 1. Set of application documents you write and the presentations you deliver.
@@ -45,6 +45,7 @@ __<u> Characteristics:</u>__
 |Accuracy                |
 |Accessibility           |
 |Professional appearance |
+|Conciseness             |
 
 
 
